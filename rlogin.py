@@ -9,6 +9,6 @@ def userinfo():
 		# subreddit to update
 		'subreddit'		:	'INFO HERE',
 		# USER AGENT MUST BE UNIQUE AND DESCRIPTIVE see https://github.com/reddit/reddit/wiki/API
-		'useragent' 	:	'White Sox Standings bot by u/logicalriot v 1.0.'
+		'useragent' 	:	'INFO HERE'
 	}
 	return r_user_settings
