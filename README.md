@@ -21,5 +21,8 @@ Once your data is entered into rlogin.py you'll need setup a cronjob on your ser
 
 Future Additions
 -----------------------------
+[ ] Add error handling.
 
-Eventually this bot will also create your Game Threads so you don't have to. I plan on having that done by the end of April 2013.
+[ ] Improve the way the bot inputs the standings and the formatting of the standings.
+
+[ ] Create Game Threads automatically for your specified subreddit.
