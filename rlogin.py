@@ -1,7 +1,7 @@
 def userinfo():
 	r_user_settings = {
 		# sportsdatallc.org API Key Information
-		'api_key'		:	'INFO HERE'
+		'api_key'		:	'INFO HERE',
 		# reddit user name used to update your standings
 		'username'		:	'INFO HERE',
 		# password
