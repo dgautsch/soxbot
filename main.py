@@ -129,4 +129,4 @@ newdescription = trimmed + '\n'.join(standingsTable)
 desc = newdescription.encode(encoding='UTF-8',errors='strict')
 
 # Update Description
-r.get_subreddit('whitesox').update_settings(description=desc)
+r.get_subreddit(userdata['subreddit']).update_settings(description=desc)
