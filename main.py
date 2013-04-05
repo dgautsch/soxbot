@@ -26,7 +26,7 @@ def percentage(part, whole):
 		return 0
 	return 100 * float(part)/float(whole)
 
-# this pulls the standings and fomats them
+# this pulls the standings and formats them
 def createStandings():
 	s = []
 	# loop through the xml results appending each row
