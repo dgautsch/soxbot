@@ -3,6 +3,11 @@ soxbot
 
 Updates baseball standings on a Reddit subreddit.
 
+Requirements
+------------
+
+You need to make sure your installation of Python has [praw](https://github.com/praw-dev/praw)
+
 Usage
 -----
 
